@@ -18,11 +18,7 @@
 <br/>  
 
 <br/>  
-
-  
-
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Enrico-Proietto&&style=flat-square" align="left" />
 </div>  
