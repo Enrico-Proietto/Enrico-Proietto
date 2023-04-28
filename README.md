@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### Hello, I'm Enrico  
+ 
+## Hello, I'm Enrico  
   
 
 - 🔭 I’m currently working on this portfolio  
