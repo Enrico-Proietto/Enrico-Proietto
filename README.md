@@ -29,9 +29,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
