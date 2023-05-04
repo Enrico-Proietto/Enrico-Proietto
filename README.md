@@ -2,7 +2,7 @@
 ## Hello, I'm Enrico  
   
 
-- 🔭 I’m currently working on this portfolio  
+- 🔭 I’m currently working on my portfolio  
   
 
 - 🌱 I’m currently learning JavaSscipt and Angular  
